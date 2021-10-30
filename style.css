@@ -1,0 +1,34 @@
+body {
+  background-color: lightblue;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+#header {
+  width: 99%;
+  height: 75px;
+  background-color: lightgray;
+  margin: 5px;
+  border: 1px solid black;
+}
+
+#headerImg {
+  width: 65px;
+  height: 65px;
+  margin: 5px;
+  border: 1px solid black;
+}
+
+#nav {
+  float: right;
+  margin: 15px 5px;
+}
+
+#nav a:link {
+  text-decoration: none;
+  text-align: center;
+  padding: 10px;
+  display: inline-block;
+  color: darkmagenta;
+}
